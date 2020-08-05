@@ -1,0 +1,2 @@
+# AuroraProject
+Aurora Project is my final project from the Coding Bootcamp 9, with my classmate, Daniel Bogdan (Team Project). I did the Front End for the Project. Daniel did the Back End and the communication with the Front End. It is build on the latest .Net Framework with C#, implementing Rest Apis, Sorting Algorithms, design patterns like (Repository, UnitOfWork, Factory, Strategy), complete OOP, Bootstrap, CSS, Javascript, JQuery etc. Using libs like SignalR, Ninject, Moment, Toastr, BootBox etc
